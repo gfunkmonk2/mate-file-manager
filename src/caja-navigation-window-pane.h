@@ -50,6 +50,7 @@ struct _CajaNavigationWindowPane
     GtkWidget *widget;
 
     /* location bar */
+    GtkWidget *always_use_location_entry_toggle_button;
     GtkWidget *location_bar;
     GtkWidget *navigation_bar;
     GtkWidget *path_bar;
