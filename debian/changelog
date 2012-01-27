@@ -1,0 +1,85 @@
+mate-file-manager (1.1.2-2) oneiric; urgency=low
+
+  * Add toggle button to switch between location bar and text entry.
+
+ -- Matt Rinsch <gfunkmonk@gmail.com>  Fri, 27 Jan 2012 16:30:11 -0500
+
+mate-file-manager (1.1.2-1) oneiric; urgency=low
+
+  * inital
+
+ -- Matt Rinsch <gfunkmonk@gmail.com>  Sat, 07 Jan 2012 04:11:34 -0500
+
+mate-file-manager (1.1.1-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Stefano Karapetsas <stefano@karapetsas.com>  Mon, 26 Dec 2011 20:31:22 +0100
+
+mate-file-manager (1.1.0-2) unstable; urgency=low
+
+  * Removed .la file.
+
+ -- Stefano Karapetsas <stefano@karapetsas.com>  Sat, 10 Dec 2011 00:50:08 +0100
+
+mate-file-manager (1.1.0-1) unstable; urgency=low
+
+  * New upstream release.
+  * Add gir package.
+
+ -- Stefano Karapetsas <stefano@karapetsas.com>  Thu, 08 Dec 2011 21:53:14 +0100
+
+mate-file-manager (2011.12.01-1) unstable; urgency=low
+
+  * New upstream release.
+  * Add caja-dbg and caja-common packages.
+  * Switch to autogen.sh.
+  * Add debian/watch file and get-orig-source in debian/rules.
+
+ -- Stefano Karapetsas <stefano@karapetsas.com>  Wed, 07 Dec 2011 22:58:52 +0100
+
+mate-file-manager (1.0.3-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Stefano Karapetsas <stefano@karapetsas.com>  Thu, 10 Nov 2011 23:23:14 +0100
+
+mate-file-manager (1.0.0-2) unstable; urgency=low
+
+  * File manager moved to caja package.
+  * Library files moved to libcaja-extension package.
+  * Include files moved to libcaja-extension-deve package.
+  * Added appropriate depends to gir1.2-caja package.
+
+ -- Stefano Karapetsas <stefano@karapetsas.com>  Fri, 04 Nov 2011 20:29:14 +0100
+
+mate-file-manager (1.0.0-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 03 Nov 2011 18:14:55 +0000
+
+mate-file-manager (2011.11.03) unstable; urgency=low
+
+  * 2011.11.03
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 03 Nov 2011 12:11:36 +0000
+
+mate-file-manager (2011.10.30-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Stefano Karapetsas <stefano@karapetsas.com>  Sun, 30 Oct 2011 15:16:27 +0100
+
+mate-file-manager (2011.10.18-2) unstable; urgency=low
+
+  * Fixed debian folder.
+
+ -- Stefano Karapetsas <stefano@karapetsas.com>  Sat, 29 Oct 2011 00:45:25 +0200
+
+mate-file-manager (2011.10.18-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Stefano Karapetsas <stefano@karapetsas.com>  Fri, 21 Oct 2011 02:26:02 +0200
+ 
